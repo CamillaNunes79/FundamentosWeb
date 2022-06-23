@@ -70,7 +70,7 @@ function validaNome() {
  }
 
           function mapaNormal() {
-            mapa.style.width = '400'
-            mapa.style.height = '300'
+            mapa.style.width = '400px'
+            mapa.style.height = '300px'
 
 }
